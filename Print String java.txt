@@ -6,3 +6,6 @@ public class Main
 		System.out.println("My name is "+name+" And "+s);
 	}
 }
+
+// Output : 
+My name is Naruto Uzumaki And I am gone be hokage one day
