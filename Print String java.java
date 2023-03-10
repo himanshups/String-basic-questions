@@ -8,4 +8,4 @@ public class Main
 }
 
 // Output : 
-My name is Naruto Uzumaki And I am gone be hokage one day
+//My name is Naruto Uzumaki And I am gone be hokage one day
