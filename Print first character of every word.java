@@ -25,9 +25,9 @@ public class Main
     
 }
 
-// Output 
+/*Output 
 
-                   hello world an 
+                  hello world an 
 h w a 
 ---------------------------------------------------
-h w a 
+h w a */
