@@ -23,6 +23,8 @@ public class Main
             char temp = arr[start];
             arr[start]=arr[end];
             arr[end]=temp;
+            start++;
+            end--;
         }
         for(int i :arr)System.out.print(i);
         // Method 4 : Logic 3 Using stack 
